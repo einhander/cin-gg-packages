@@ -2,6 +2,7 @@
 
 Storage for Cinelerra-gg nightly packages from build farm. 
 List of active builders:
+* Debian 13  - cin_5.1.*.deb13.amd64.deb
 * Debian 12  - cin_5.1.*.deb12.amd64.deb
 * Debian 11  - cin_5.1.*.deb11.amd64.deb
 * Ubuntu 2204  - cin_5.1.*.ub2204.amd64.deb
