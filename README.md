@@ -8,4 +8,5 @@ List of active builders:
 * Ubuntu 2204  - cin_5.1.*.ub2204.amd64.deb
 * Fedora 38  - cinelerra-5.1-*.fc38.x86_64.rpm
 * Suse 15  - cinelerra-5.1-*.suse15.x86_64.rpm
+* Suse Tumbleweed  - cinelerra-5.1-*.susetw.x86_64.rpm
 
